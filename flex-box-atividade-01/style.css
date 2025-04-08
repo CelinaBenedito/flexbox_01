@@ -38,12 +38,14 @@ h1 {
 }
 
 .cor2 {
+    order: 1;
     background-color: #63B1BC;
     align-self: flex-end;
 
 }
 
 .cor3 {
+    
     align-self: center;
     background-color: #EFB661;
 }
